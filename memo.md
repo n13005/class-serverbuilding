@@ -7,8 +7,9 @@
 
 ### Wordpress
 
-#### Wordpressチューニング
-
+### Wordpressチューニング
+acp
+hiphopphp
 ### EC-CUBE
 
 ## DNSサーバー
@@ -16,7 +17,7 @@
 ### bind?
 
 ## chef
-
+仮想サーバーを使える
 ## docker
 
 ## git
